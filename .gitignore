@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment variables
+.env
+
+# Data
+# data/ # Uncomment if you don't want to upload data files
+
+# OS files
+.DS_Store
+Thumbs.db
