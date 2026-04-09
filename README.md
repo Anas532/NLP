@@ -1,4 +1,4 @@
-# Modernized NLP Project
+# NLP Project
 
 This repository contains a collection of Natural Language Processing (NLP) projects, including a spam classifier, a TOEFL roleplay chatbot, and an exploration of Word2Vec and Average Word2Vec techniques. The original Jupyter notebooks have been refactored into a more organized project structure for clarity and ease of use.
 
