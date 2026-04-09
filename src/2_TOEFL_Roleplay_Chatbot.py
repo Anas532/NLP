@@ -38,8 +38,7 @@ from google.genai import types
 # In[2]:
 
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyCLspo9e_TVQrR2DgFs2RNHrh3mKqh-jjw"
-api_key = os.getenv("AIzaSyCLspo9e_TVQrR2DgFs2RNHrh3mKqh-jjw")
+api_key= os.environ["GEMINI_API_KEY"] = "GEMINI_API_KEY"
 client = genai.Client(api_key=api_key)
 
 # In[3]:
